@@ -53,6 +53,33 @@ Bash
 git add .
 git commit -m "Avances locales antes de actualizar README"
 
+
+ara crear una aplicación de React moderna con Vite (que es el estándar que estás usando), el comando exacto en la terminal es:
+
+Bash
+npm create vite@latest nombre-de-tu-app -- --template react
+El proceso completo paso a paso:
+Ejecutas el comando de creación:
+Reemplaza nombre-de-tu-app por el nombre que le quieras dar a tu carpeta (por ejemplo: mi-proyecto-comics).
+
+Entras a la carpeta recién creada:
+
+Bash
+cd nombre-de-tu-app
+Instalas las dependencias de React:
+
+Bash
+npm install
+Instalas Material UI y sus íconos (si los vas a usar en el examen):
+
+Bash
+npm install @mui/material @emotion/react @emotion/styled @fontsource/roboto @mui/icons-material
+Levantas el servidor de desarrollo para empezar a programar:
+
+Bash
+npm run dev
+Tip para el examen: Si ejecutas solo npm create vite@latest, la terminal te hará preguntas interactivas donde debes seleccionar React como Framework y JavaScript como Variant. Usar la bandera -- --template react al final se salta esa selección manual y la crea directo.
+
 # Paso 2: Trae el README editado desde GitHub
 git pull origin main
 
