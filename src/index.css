@@ -4,3 +4,10 @@
 @import '@fontsource/roboto/700.css';
 @import 'bootstrap\dist\css\bootstrap-grid.min.css';
 @import 'bootstrap\dist\css\bootstrap-utilities.min.css';
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #a5caf0;
+  font-family: 'Roboto', sans-serif;
+}
