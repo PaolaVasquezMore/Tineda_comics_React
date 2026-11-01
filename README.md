@@ -1,17 +1,61 @@
 # React + Vite
+# ✦ El Salón Geek
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+**Tienda online de cómics, manga, novelas gráficas y coleccionables.**
 
-Currently, two official plugins are available:
+El Salón Geek es un proyecto de e-commerce orientado a la venta y exploración de productos de cultura geek. Busca ofrecer una experiencia de compra intuitiva, visualmente atractiva y accesible tanto para coleccionistas como para personas que recién comienzan a descubrir el mundo del cómic y el manga.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🎯 Objetivo del proyecto
 
-## React Compiler
+Desarrollar una plataforma de comercio electrónico que permita:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Explorar un catálogo de cómics, manga y novelas gráficas.
+- Buscar productos por título, autor o editorial.
+- Filtrar y ordenar productos.
+- Consultar información y disponibilidad de productos.
+- Gestionar favoritos y carrito de compras.
+- Descubrir nuevas lecturas mediante recomendaciones.
 
-## Expanding the Oxlint configuration
+## 🎨 Identidad visual
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+La propuesta visual está inspirada en la arquitectura monumental del Salón de la Justicia y la estética Art Déco, combinando elementos clásicos con una interfaz moderna.
 
+**Paleta de colores:**
+
+| Color | Código | Uso |
+|---|---|---|
+| Azul medianoche | `#191D3A` | Identidad principal |
+| Marfil | `#FFF2DF` | Fondos |
+| Dorado | `#FFC83D` | Acentos |
+| Rojo | `#F04450` | Ofertas y destacados |
+
+## 🛠️ Tecnologías
+
+- Diseño UI/UX: Figma.
+- Frontend: Por definir.
+- Backend: Por definir.
+- Base de datos: Por definir.
+
+## 📌 Estado del proyecto
+
+Actualmente en etapa de diseño y definición de experiencia de usuario (UI/UX).
+
+### Próximas etapas
+
+- [x] Definición de identidad visual.
+- [x] Diseño conceptual de la página principal.
+- [ ] Diseño del catálogo de productos.
+- [ ] Diseño del detalle de producto.
+- [ ] Implementación del frontend.
+- [ ] Desarrollo del backend.
+- [ ] Integración de base de datos.
+- [ ] Implementación del carrito y sistema de compras.
+- [ ] Pruebas y validación.
+
+## 👩‍💻 Autora
+
+Proyecto desarrollado como iniciativa personal de aprendizaje y desarrollo de habilidades en diseño y desarrollo web.
+
+---
+
+*El Salón Geek — Toda gran historia comienza aquí.*
