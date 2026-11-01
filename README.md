@@ -1,4 +1,3 @@
-# React + Vite
 # ✦ El Salón Geek
 
 **Tienda online de cómics, manga, novelas gráficas y coleccionables.**
